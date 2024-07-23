@@ -24,8 +24,8 @@ import android.webkit.WebView;
 
 public class MainActivity extends AppCompatActivity {
 
-    // The URL Site we will load into the native app
-    public final static String URL_SITE = "http://demo.hizup.com/pH7CMS";
+    // The URL Site we will load into the native app and it  will load the app from the website.
+    public final static String URL_SITE = "https://luvsuv.com/luvsuv/";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
